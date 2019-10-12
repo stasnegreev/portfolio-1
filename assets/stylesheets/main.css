@@ -345,7 +345,9 @@ header a {
   work
   ========================================
 */
-
+.work-img{
+	padding-left: 30px;
+}
 .work-img div{
 	display: flex;
 	justify-content: center;
